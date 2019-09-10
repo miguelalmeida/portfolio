@@ -77,7 +77,7 @@ List of companies / organizations I cofounded
 - **MY WORK:**
 
 <p float="left">
-<img src="https://github.com/miguelalmeida/portfolio/blob/master/nesto/user%20home.png" height="300">
+<img src="/portfolio/blob/master/nesto/user%20home.png" height="300">
   <img src="https://github.com/miguelalmeida/portfolio/blob/master/nesto/user%20Dashboard.png" height="300">
 <img src="https://github.com/miguelalmeida/portfolio/blob/master/nesto/user%20Status.png" height="300">
 <img src="https://github.com/miguelalmeida/portfolio/blob/master/nesto/user%20Logs.png" height="300">
