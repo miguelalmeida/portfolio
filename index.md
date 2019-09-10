@@ -101,9 +101,9 @@ List of companies / organizations I cofounded
 - **MY WORK:**
 
 <p float="left">
-<img src="/journey/Dashboard.png" height="180">
-<img src="/journey/00%20login%20screen.png" height="180">
-<img src="/journey/SHOW%20DEVICE.png" height="180">
+<img src="/journey/Dashboard.png" height="150">
+<img src="/journey/00%20login%20screen.png" height="150">
+<img src="/journey/SHOW%20DEVICE.png" height="150">
 </p>
 
 - **More Screens here:** [Journey Mockups](/journey/)
