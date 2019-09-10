@@ -37,7 +37,21 @@ List of companies / organizations I cofounded
 
 ## SOFTWARE PROJECTS
 
-### FENCIT
+### TOURISM METRICS PLATFORM
+- **About:** A data management platform capable of automatically importing information from different sources and generating reports in real time, saving time and generating valuable tourism insights.
+- **DATE:** 2018
+- **ROLE:** Developed the mockups and front-end for the dashboards
+- **PROJECT URL:** https://rocketleaf.com/digital-transformation-tourism/
+- **SCREENSHOTS:**
+
+<p float="left">
+<img src="https://github.com/miguelalmeida/portfolio/blob/master/atc/Dashboard%20Overview.png" height="300">
+<img src="https://github.com/miguelalmeida/portfolio/blob/master/nesto/user%20Dashboard.png" height="300">
+<img src="https://github.com/miguelalmeida/portfolio/blob/master/nesto/user%20Dashboard.png" height="300">
+</p>
+
+- **More Screens here:** https://github.com/miguelalmeida/portfolio/blob/master/nesto/
+
 
 
 ### FENCIT
