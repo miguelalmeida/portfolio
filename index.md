@@ -48,18 +48,27 @@ List of companies / organizations I cofounded
 <img src="/atc/Dashboard%20Overview.png" height="200">
 <img src="/atc/Data%20Insertion.png" height="200">
 <img src="/atc/Builder%20-%20Lines.png" height="200">
-<img src="/atc/Relato%CC%81rios%20-%20Edit.png" height="200">
 </p>
 
 - **More Screens here:** [Tourism Mockups](/atc/)
 
 
-
 ### FENCIT
 - **About:** A fencing app to map your terrains
 - **DATE:** 2016
-- **ROLE:** Dev
-- **URL:**
+- **ROLE:** Android App Dev
+- **SCREENSHOTS:**
+
+<p float="left">
+<img src="/fencit/screen1.png" height="300">
+<img src="/fencit/screen2.png" height="300">
+<img src="/fencit/screen3.png" height="300">
+<img src="/fencit/screen4.png" height="300">
+</p>
+
+- **More Screens here:** [Tourism Mockups](/atc/)
+
+
 
 ### METRIFLY
 - **About:** An app to measure the quality of mobile networks network
