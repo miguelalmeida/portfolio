@@ -45,12 +45,12 @@ List of companies / organizations I cofounded
 - **SCREENSHOTS:**
 
 <p float="left">
-<img src="https://github.com/miguelalmeida/portfolio/blob/master/atc/Dashboard%20Overview.png" height="300">
-<img src="https://github.com/miguelalmeida/portfolio/blob/master/nesto/user%20Dashboard.png" height="300">
-<img src="https://github.com/miguelalmeida/portfolio/blob/master/nesto/user%20Dashboard.png" height="300">
+<img src="/atc/Dashboard%20Overview.png" height="300">
+<img src="/atc/Data%20Insertion.png" height="300">
+<img src="/atc/Builder%20-%20Lines.png" height="300">
 </p>
 
-- **More Screens here:** https://github.com/miguelalmeida/portfolio/blob/master/nesto/
+- **More Screens here:** [Tourism Mockups](/atc/)
 
 
 
@@ -84,6 +84,5 @@ List of companies / organizations I cofounded
 <img src="https://github.com/miguelalmeida/portfolio/blob/master/nesto/Contracts%20Map.png" height="300">
 </p>
 
-- **More Screens here:** https://github.com/miguelalmeida/portfolio/blob/master/nesto/
-
+- **More Screens here:** [Nesto Mockups](/nesto/)
 
