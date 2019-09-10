@@ -52,7 +52,6 @@ List of companies / organizations I cofounded
 
 - **More Screens here:** [Tourism Mockups](/atc/)
 
-
 ### FENCIT
 - **About:** A fencing app to map your terrains
 - **DATE:** 2016
@@ -66,7 +65,6 @@ List of companies / organizations I cofounded
 <img src="/fencit/screen4.png" height="300">
 </p>
 
-- **More Screens here:** [Tourism Mockups](/atc/)
 
 
 
@@ -95,4 +93,18 @@ List of companies / organizations I cofounded
 </p>
 
 - **More Screens here:** [Nesto Mockups](/nesto/)
+
+### USER JOURNEY FOR MUSEUMS
+- **About:** A set of mockups created for an MVP to manage a Smart Tourism Destination with multiple interaction points.
+- **DATE:** 2019
+- **ROLE:** Developed the mockups
+- **MY WORK:**
+
+<p float="left">
+<img src="/journey/user%20home.png" height="200">
+<img src="/journey/Dashboard.png" height="200">
+<img src="/journey/SHOW%20DEVICE.png" height="200">
+</p>
+
+- **More Screens here:** [Journey Mockups](/journey/)
 
