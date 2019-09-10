@@ -35,11 +35,26 @@ List of companies / organizations I cofounded
 - **DATE:** 2019 - *
 - **ROLE:** FOUNDER
 
-## MOBILE APP PROJECTS
-1. FENCIT
-2. METRIFLY
-
 ## SOFTWARE PROJECTS
-1. METRIFLY
+
+### FENCIT
+
+
+### FENCIT
+- **About:** A fencing app to map your terrains
+- **DATE:** 2016
+- **ROLE:** Dev
+- **URL:**
+
+### METRIFLY
+- **About:** An app to measure the quality of mobile networks network
+- **DATE:** 2016
+- **ROLE:** Backend/Frontend Dev, Design
+- **FRONTEND URL:** http://metrifly.com
+- **MOBILE APP URL:** http://metrifly.com
 
 ## DESIGN PROJECTS
+
+### NESTO
+
+![](https://github.com/miguelalmeida/portfolio/blob/master/nesto/user%20home.png?v=4&s=200)
