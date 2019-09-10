@@ -45,9 +45,10 @@ List of companies / organizations I cofounded
 - **SCREENSHOTS:**
 
 <p float="left">
-<img src="/atc/Dashboard%20Overview.png" height="300">
-<img src="/atc/Data%20Insertion.png" height="300">
-<img src="/atc/Builder%20-%20Lines.png" height="300">
+<img src="/atc/Dashboard%20Overview.png" height="200">
+<img src="/atc/Data%20Insertion.png" height="200">
+<img src="/atc/Builder%20-%20Lines.png" height="200">
+<img src="/atc/Relato%CC%81rios%20-%20Edit.png" height="200">
 </p>
 
 - **More Screens here:** [Tourism Mockups](/atc/)
