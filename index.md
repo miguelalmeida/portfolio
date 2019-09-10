@@ -1,8 +1,8 @@
 # Welcome to my Porftolio
 
 
-## COMPANIES / ORGANIZATIONS
-List of companies / organizations I cofounded
+## COMPANIES
+List of companies I cofounded
 
 ### ROCKETLEAF:   
 - **URL:** http://rocketleaf.com  
@@ -10,19 +10,14 @@ List of companies / organizations I cofounded
 - **DATE:** 2017 - *
 - **ROLE:** FOUNDER / MANAGER
 
-### HARDWARECITY:   
-- **URL:** http://hardwarecity.org
-- **About:** ONG to promote product development in Portugal
-- **DATE:** 2016 - *
-- **ROLE:** CO-FOUNDER
-
 ### METRIFLY:   
 - **URL:** http://metrifly.com  
 - **About:** Metrifly show how users experience Mobile and WiFi networks
 - **DATE:** 2014 - 2017
 - **ROLE:** FOUNDER
 
-## COOL INITIATIVES
+## GRASSROOTS MOVEMENTS I COFOUNDED:
+
 ### SUNSET HACKATHON
 - **URL:** http://sunsethackathon.com  
 - **About:** A 3 day tech marathon focusing on solving world problems to increase our sustainability
@@ -31,9 +26,15 @@ List of companies / organizations I cofounded
 
 ### SPACE MAKER SPACE
 - **URL:** http://spacemaker.space
-- **About:** An open makerspace for the space community
+- **About:** An open makerspace for the space projects, strongly focusing on helping schools embed other curriculums into their syllabus.
 - **DATE:** 2019 - *
 - **ROLE:** FOUNDER
+
+### HARDWARECITY:   
+- **URL:** http://hardwarecity.org
+- **About:** ONG to promote product development in Portugal
+- **DATE:** 2016 - *
+- **ROLE:** CO-FOUNDER
 
 ## SOFTWARE PROJECTS
 
@@ -64,8 +65,6 @@ List of companies / organizations I cofounded
 <img src="/fencit/screen3.png" height="300">
 <img src="/fencit/screen4.png" height="300">
 </p>
-
-
 
 
 ### METRIFLY
