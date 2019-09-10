@@ -60,7 +60,11 @@ List of companies / organizations I cofounded
 - **DATE:** 2018
 - **ROLE:** Developed the design as a partnership agreement
 - **PROJECT URL:** https://www.loba.pt/pt/product-design/portfolio-de-design-de-produto/nesto-produto
-- **MY WORK:
+- **MY WORK:**
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 
 | [![VideoBlocks](https://github.com/miguelalmeida/portfolio/blob/master/nesto/user%20home.png)]  | [![AudioBlocks](https://github.com/miguelalmeida/portfolio/blob/master/nesto/user%20Status.png)](http://audioblocks.com) | [![GraphicStock](http://www.graphicstock.com/images/logo.jpg)](http://graphicstock.com) |
 |:---:|:---:|:---:|
