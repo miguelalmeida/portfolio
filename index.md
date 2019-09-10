@@ -62,20 +62,8 @@ List of companies / organizations I cofounded
 - **PROJECT URL:** https://www.loba.pt/pt/product-design/portfolio-de-design-de-produto/nesto-produto
 - **MY WORK:**
 
-![test image size](https://github.com/miguelalmeida/portfolio/blob/master/nesto/user%20home.png){:height="50%" width="50%"}
 
-
-![](https://github.com/miguelalmeida/portfolio/blob/master/nesto/user%20home.png | width=100)
-
-
-![](https://github.com/miguelalmeida/portfolio/blob/master/nesto/user%20home.png | width=100)
-
-![alt text](https://github.com/miguelalmeida/portfolio/blob/master/nesto/user%20home.png "User Home" | width=250)
-
-![alt text](https://github.com/miguelalmeida/portfolio/blob/master/nesto/user%20Status.png "Logo Title Text 1")
-
-
-
+<img src="https://github.com/miguelalmeida/portfolio/blob/master/nesto/user%20home.png" height="300">
 <img src="https://github.com/miguelalmeida/portfolio/blob/master/nesto/user%20Status.png" height="300">
 <img src="https://github.com/miguelalmeida/portfolio/blob/master/nesto/Adding%20Scales.png" height="300">
 <img src="https://github.com/miguelalmeida/portfolio/blob/master/nesto/Contracts%20Map.png" height="300">
