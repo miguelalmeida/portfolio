@@ -61,7 +61,9 @@ List of companies / organizations I cofounded
 - **ROLE:** Developed the design as a partnership agreement
 - **PROJECT URL:** https://www.loba.pt/pt/product-design/portfolio-de-design-de-produto/nesto-produto
 - **MY WORK:**
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png)
+
+![test image size](https://github.com/miguelalmeida/portfolio/blob/master/nesto/user%20home.png){:height="50%" width="50%"}
+
 
 ![](https://github.com/miguelalmeida/portfolio/blob/master/nesto/user%20home.png | width=100)
 
