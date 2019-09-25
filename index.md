@@ -46,9 +46,9 @@ List of companies I cofounded
 - **SCREENSHOTS:**
 
 <p float="left">
-<img src="/atc/Dashboard%20Overview.png" height="200">
-<img src="/atc/Data%20Insertion.png" height="200">
-<img src="/atc/Builder%20-%20Lines.png" height="200">
+<img src="atc/Dashboard%20Overview.png" height="200">
+<img src="atc/Data%20Insertion.png" height="200">
+<img src="atc/Builder%20-%20Lines.png" height="200">
 </p>
 
 - **More Screens here:** [Tourism Mockups](/atc/)
@@ -60,10 +60,10 @@ List of companies I cofounded
 - **SCREENSHOTS:**
 
 <p float="left">
-<img src="/fencit/screen1.png" height="300">
-<img src="/fencit/screen2.png" height="300">
-<img src="/fencit/screen3.png" height="300">
-<img src="/fencit/screen4.png" height="300">
+<img src="fencit/screen1.png" height="300">
+<img src="fencit/screen2.png" height="300">
+<img src="fencit/screen3.png" height="300">
+<img src="fencit/screen4.png" height="300">
 </p>
 
 
@@ -84,11 +84,11 @@ List of companies I cofounded
 - **MY WORK:**
 
 <p float="left">
-<img src="/nesto/user%20home.png" height="300">
-<img src="/nesto/user%20Dashboard.png" height="300">
-<img src="https://github.com/miguelalmeida/portfolio/blob/master/nesto/user%20Status.png" height="300">
-<img src="https://github.com/miguelalmeida/portfolio/blob/master/nesto/user%20Logs.png" height="300">
-<img src="https://github.com/miguelalmeida/portfolio/blob/master/nesto/Contracts%20Map.png" height="300">
+<img src="nesto/user%20home.png" height="300">
+<img src="nesto/user%20Dashboard.png" height="300">
+<img src="nesto/user%20Status.png" height="300">
+<img src="nesto/user%20Logs.png" height="300">
+<img src="nesto/Contracts%20Map.png" height="300">
 </p>
 
 - **More Screens here:** [Nesto Mockups](/nesto/)
@@ -100,9 +100,9 @@ List of companies I cofounded
 - **MY WORK:**
 
 <p float="left">
-<img src="/journey/Dashboard.png" height="160">
-<img src="/journey/00%20login%20screen.png" height="160">
-<img src="/journey/SHOW%20DEVICE.png" height="160">
+<img src="journey/Dashboard.png" height="160">
+<img src="journey/00%20login%20screen.png" height="160">
+<img src="journey/SHOW%20DEVICE.png" height="160">
 </p>
 
 - **More Screens here:** [Journey Mockups](/journey/)
